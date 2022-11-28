@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Berlin, Deutschland</name>
+   <tag></tag>
+   <elementGuidId>57bade48-3c73-4aa1-8513-37ead0dfccfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._r1t6ga</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bigsearch-query-location-suggestion-0']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>80bb2bf9-d211-4ea7-bee1-a7d3c0a167a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_r1t6ga</value>
+      <webElementGuid>9d2f9a0a-d5e1-43de-846e-3202cf508349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berlin, Deutschland</value>
+      <webElementGuid>de0ee13e-02a9-40f5-90b3-c2b0cc8d749b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bigsearch-query-location-suggestion-0&quot;)/div[@class=&quot;_1825a1k&quot;]/div[@class=&quot;_r1t6ga&quot;]</value>
+      <webElementGuid>3489411c-6982-4c2e-8059-a31aee8f4e85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bigsearch-query-location-suggestion-0']/div[2]/div</value>
+      <webElementGuid>00879108-3dd9-4fc8-b28b-8a7f24673deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vorwärts navigieren, um auf die vorgeschlagenen Ergebnisse zuzugreifen'])[1]/following::div[11]</value>
+      <webElementGuid>351f1c07-e747-4358-a9ff-244bb585701c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wohin'])[1]/following::div[11]</value>
+      <webElementGuid>cf83f0a1-cf5c-4e15-86dc-dd649ad79016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berlin-Mitte, Berlin'])[1]/preceding::div[2]</value>
+      <webElementGuid>daea4c46-aa7d-4a73-a915-998a25e9e339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berlin-Kreuzberg'])[1]/preceding::div[6]</value>
+      <webElementGuid>da83e28e-8dbe-41e7-b086-f9cb69f74c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Berlin, Deutschland']/parent::*</value>
+      <webElementGuid>0b0cf948-178a-4a08-87f4-8e20e83eae50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div[2]/div</value>
+      <webElementGuid>3a2dfda4-3352-4f99-b15f-e7f486f6649c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Berlin, Deutschland' or . = 'Berlin, Deutschland')]</value>
+      <webElementGuid>1b030494-5f76-4318-9099-905c4f0cf2bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

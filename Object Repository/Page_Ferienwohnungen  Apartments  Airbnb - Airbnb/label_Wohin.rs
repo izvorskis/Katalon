@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Wohin</name>
+   <tag></tag>
+   <elementGuidId>e1fc930c-1b08-4b1e-8e24-64b169dbcab1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.i11g7f5s.ix85u26.ivycze5.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-tabpanel']/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>61da66f8-4e32-499d-ace6-f35695311544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>i11g7f5s ix85u26 ivycze5 dir dir-ltr</value>
+      <webElementGuid>70d16938-ceb2-4ead-9f22-466d4f4ad934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>bigsearch-query-location-input</value>
+      <webElementGuid>8374c597-1a38-4e75-8787-475a9211107d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wohin</value>
+      <webElementGuid>50895a65-89a8-443d-98a3-365736066b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-tabpanel&quot;)/div[@class=&quot;i1wnljx3 dir dir-ltr&quot;]/div[@class=&quot;qtt9tup dir dir-ltr&quot;]/div[@class=&quot;c11pxvht dir dir-ltr&quot;]/label[@class=&quot;i11g7f5s ix85u26 ivycze5 dir dir-ltr&quot;]</value>
+      <webElementGuid>2511f0cf-78b4-4cbb-8c8d-d9c0b55f5c5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-tabpanel']/div/div/div/label</value>
+      <webElementGuid>d80f21fe-e18b-4a5d-bbc3-78c51194ab1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online-Entdeckungen'])[1]/following::label[1]</value>
+      <webElementGuid>8e6b05fe-e367-426b-a19e-5f42943cd7db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entdeckungen'])[1]/following::label[1]</value>
+      <webElementGuid>46e2f0c6-0132-4a98-a6b2-4933dfca12b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vorwärts navigieren, um auf die vorgeschlagenen Ergebnisse zuzugreifen'])[1]/preceding::label[1]</value>
+      <webElementGuid>80083415-052a-4cca-a416-674a8b3030d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>38dffb04-f232-4c42-94d8-2fcd677a67ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Wohin' or . = 'Wohin')]</value>
+      <webElementGuid>0e6efe5e-dab5-479a-b3a2-b8fcfee48ffa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
